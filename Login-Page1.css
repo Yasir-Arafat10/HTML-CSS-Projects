@@ -1,0 +1,90 @@
+body {
+    background-color: #212121;
+    color: gray;
+    text-align: center;
+}
+
+.container {
+    margin: 50px 0 0 200px;
+    width: 70%;
+}
+
+h1 {
+    margin-left: 350px;
+    width: 193px;
+    border-bottom: 3px solid gray;
+    font-family: 'rubik';
+}
+
+@font-face {
+    font-family: 'rubik';
+    src: url(static/Rubik-BoldItalic.ttf);
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 20px;
+    box-sizing: border-box;
+    padding: 13px;
+}
+
+.left {
+    background: none;
+    color: gray;
+    padding: 12px;
+    box-sizing: border-box;
+    height: 50px;
+    width: 50px;
+    font-size: 25px;
+    border-radius: 50%;
+    margin-right: 30px;
+    text-align: center;
+    box-shadow: inset 2px 5px 10px rgb(5, 5, 5);
+}
+
+.uname {
+    padding: 10px 20px;
+    height: 50px;
+    width: 250px;
+    box-sizing: border-box;
+    border-radius: 9999px;
+    border: none;
+    outline: none;
+    font-size: 17px;
+    background: none;
+    box-shadow: inset 2px 5px 10px rgb(5, 5, 5);
+    color: #fff;
+    transition: 0.3s ease-in-out;
+}
+.uname:focus{
+    transform: scale(1.03);
+    background-color: black;
+    box-shadow: 2px 2px 20px #969696, -2px -2px 20px #000000;
+}
+
+.sbtn {
+    background-color: #212121;
+    color: gray;
+    width: 250px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 9999px;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 3px 20px 0 0px;
+    box-sizing: border-box;
+    border: none;
+    box-shadow: inset 2px 5px 10px rgb(5, 5, 5);
+}
+
+.fgt a {
+    text-decoration: none;
+    color: gray;
+}
+
+.fgt {
+    margin: 20px 0 0 60px;
+    font-size: 18px;
+}

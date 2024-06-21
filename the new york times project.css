@@ -1,0 +1,497 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.rgt {
+    border: 1px solid;
+    width: 15%;
+    padding-top: 40px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.main {
+    font-weight: bold;
+    font-size: 80px;
+    font-weight: 100%;
+    width: 70%;
+    text-align: center;
+}
+
+.edn {
+    width: 18%;
+    text-align: center;
+}
+
+.image {
+    display: flex;
+    justify-content: space-between;
+}
+
+.iran {
+    font-weight: bold;
+    /* font-size: 27px; */
+    font-style: italic;
+    line-height: 40px;
+    width: 200px;
+    margin-left: 5px;
+
+}
+
+.iran1 {
+    font-size: 27px;
+    font-weight: bold;
+    width: 200px;
+    margin-left: 25px;
+}
+
+.palestine {
+    font-weight: bold;
+    font-size: 23px;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 40px;
+    width: 250px;
+    margin-left: 5px;
+}
+
+.boy {
+    margin-left: 12px;
+    text-align: center;
+}
+
+.iran .rise {
+    font-size: 17px;
+    /* text-align: left; */
+    text-align: center;
+    width: 200px;
+    margin-left: 0px;
+    line-height: 25px;
+}
+
+.iran .david {
+    font-weight: bold;
+    font-size: 13px;
+    margin-left: 30px;
+    width: 200px;
+}
+
+.iran .para1 {
+    font-weight: normal;
+    line-height: normal;
+    font-size: 12px;
+    font-style: normal;
+    width: 190px;
+    text-align: justify;
+    margin-left: 10px;
+    margin-bottom: 0px;
+
+}
+
+.palestine .palestine1 {
+    font-weight: bold;
+    font-size: 19px;
+    margin-left: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.palestine .palestine2 {
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+    line-height: 25px;
+    word-spacing: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 0px;
+}
+
+.palestine .palestine3 {
+    font-weight: bold;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.palestine .palestine4 {
+    font-weight: normal;
+    line-height: normal;
+    font-size: 12px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+    margin-left: 10px;
+    width: 250px;
+}
+
+.dwn {
+    font-size: 10px;
+    margin-left: 515px;
+    font-size: 8px;
+}
+
+.ganga {
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.fed {
+    font-weight: bold;
+    font-size: 23px;
+    text-align: center;
+}
+
+.india {
+    width: 60%;
+}
+
+.india2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.india3 {
+    font-weight: normal;
+    font-size: 12px;
+    width: 30%;
+}
+
+.harries {
+    font-weight: bold;
+    font-size: 12px;
+    text-align: center;
+    margin-right: 10px;
+}
+
+.i3p1 {
+    font-size: 12px;
+    font-weight: normal;
+    width: 220px;
+    text-align: justify;
+}
+
+.india4 {
+    /* font-weight: normal; */
+    font-size: 12px;
+    width: 200px;
+    margin-right: 110px;
+}
+
+.india5 {
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    width: 130%;
+    margin-left: 25px;
+
+}
+
+.india6 {
+    font-size: 12px;
+    width: 230px;
+    font-weight: normal;
+    margin-left: 50px;
+    text-align: justify;
+}
+
+.india7 {
+    font-size: 12px;
+    width: 400px;
+    text-align: justify;
+}
+
+.qatar {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 26px;
+    width: 620px;
+
+}
+
+.abroad {
+    display: flex;
+    justify-content: space-between;
+    overflow: hidden;
+}
+
+.atlanta {
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    text-align: justify;
+    width: 190px;
+}
+
+.strives {
+    margin-right: 10px;
+    text-align: center;
+}
+
+.charles {
+    font-weight: bold;
+    font-size: 13px;
+    margin-left: 25px;
+}
+
+.casinos {
+    font-weight: normal;
+    font-size: 12px;
+    width: 200px;
+    margin-right: 10px;
+    line-height: normal;
+    text-align: justify;
+}
+
+.steve {
+    font-weight: normal;
+    font-size: 12px;
+    font-style: normal;
+    display: flex;
+    justify-content: space-between;
+    width: 520px;
+    text-align: justify;
+
+}
+
+.qatar2 {
+    margin: 10PX;
+}
+
+.qatarimg {
+    margin-left: 184px;
+    font-size: 8PX;
+}
+
+.q2022 {
+    font-weight: bold;
+    font-size: 13px;
+}
+
+.seeding {
+    font-weight: bold;
+    /* display: flex; */
+}
+
+.art {
+    font-style: italic;
+}
+
+.john {
+    display: flex;
+    justify-content: space-between;
+}
+
+.a1 {
+    width: 50%;
+}
+
+.a2 {
+    width: 170px;
+}
+
+.btw {
+    display: flex;
+}
+
+.nadine {
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.cordimer {
+    font-size: 31px;
+    font-weight: bold;
+    font-style: italic;
+    margin-left: 10px;
+}
+
+.flx {
+    display: flex;
+    justify-content: space-between;
+}
+
+.hilin {
+    font-size: 13px;
+    font-weight: bold;
+    text-align: center;
+    /* margin-left: 10px; */
+}
+
+.p1 {
+    font-weight: normal;
+    font-size: 12px;
+    margin-left: 8px;
+    text-align: justify;
+    margin-right: 8px;
+}
+
+.img1 {
+    margin-top: 10px;
+    width: 260px;
+}
+
+.christhepen {
+    font-size: 9px;
+    margin-left: 40px;
+}
+
+.novelist {
+    font-size: 18px;
+    margin-top: 5px;
+}
+
+.p2 {
+    font-size: 12px;
+    font-weight: normal;
+    text-align: justify;
+}
+
+.international {
+    display: flex;
+    justify-content: space-between
+}
+
+.winston {
+    border: solid 1px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 260px;
+    box-sizing: border-box;
+    height: 290px;
+}
+.harry{
+    margin-top: 45px;
+    border: solid 1px;
+    width: 260px;
+    height: 290px;
+    /* margin-right: px; */
+}
+
+.a412 {
+    display: flex;
+    justify-content: space-between;
+    width: 900px;
+}
+
+.a1p1 {
+    font-size: 13px;
+    width: 260px;
+}
+
+.a1p2 {
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 12px;
+}
+
+.a1p3 {
+    font-size: 12px;
+    margin-top: 6px;
+}
+
+.a1p4 {
+    margin-top: 8px;
+    font-size: 13px;
+}
+
+.a1p5 {
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 12px;
+}
+
+.a1p6 {
+    margin-top: 6px;
+    font-size: 12px;
+}
+
+.a1p7 {
+    margin-top: 12px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.a1p8 {
+    margin-top: 6px;
+    font-size: 12px;
+}
+
+.a2p1 {
+    font-size: 13px;
+    width: 340px;
+}
+
+.a2p2 {
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 12px;
+}
+.a2p3{
+    font-size: 12px;
+    margin-top: 6px;
+}
+.a2p4{
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 12px;
+}
+.a2p5{
+    font-size: 12px;
+    margin-top: 6px;
+}
+.a2p7{
+    margin-top: 12px;
+    font-weight: bold;
+    font-size: 16px;
+}
+.a2p8{
+    margin-top: 6px;
+    font-size: 12px;
+}
+.a2p9{
+    margin-top: 12px;
+    font-weight: bold;
+    font-size: 16px;
+}
+.a2p10{
+    margin-top: 6px;
+    font-size: 12px;
+}
+.a2p11{
+    margin-top: 6px;
+    font-size: 16px;
+    font-weight: bold;
+}
+.a3p1{
+    font-size: 13px;
+    width: 250px;
+}
+.a3p2{
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 12px;
+}
+.a3p3{
+    margin-top: 6px;
+    font-size: 12px;
+}
+.a3p4{
+    font-size: 13px;
+}
+.a3p5{
+    margin-top: 6px;
+}
+.a3p6{
+    margin-top: 12px;
+    font-weight: bold;
+    font-size: 16px;
+}
+.a3p7{
+    font-size: 12px;
+    margin-top: 6px;
+}
+.a3p8{
+    font-size: 12px;
+    margin-top: 6px;
+}

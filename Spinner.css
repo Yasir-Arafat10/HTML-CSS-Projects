@@ -1,0 +1,20 @@
+body{
+    background-color: #212121;
+    color: white;
+}
+.spinner{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 15px solid;
+    border-color: black gray gray gray;
+    position: relative;
+    top: 100px;
+    left: 470px;
+    animation: spinner 1s linear infinite;
+    box-shadow: 2px 3px 20px rgba(0, 0, 0, 0.8),
+    inset -2px -3px 20px rgba(0, 0, 0, 0.4);
+}
+@keyframes spinner {
+   from{transform: rotate(-360deg); }    
+}

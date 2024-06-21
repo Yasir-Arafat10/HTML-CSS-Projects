@@ -1,0 +1,73 @@
+body {
+    background-color: #01b0ab;
+    color: white;
+    text-align: center;
+}
+
+.container {
+    margin: 50px 0 0 200px;
+    width: 70%;
+}
+h1{
+    margin-left: 320px;
+    width: 193px;
+    border-bottom: 3px solid white;
+    font-family: 'rubik';
+}
+@font-face {
+    font-family: 'rubik';
+    src: url(static/Rubik-BoldItalic.ttf);
+}
+
+.main {
+    display: flex;
+    justify-content:center;
+    width: 100%;
+    margin-top: 20px;
+    box-sizing: border-box;
+    padding: 13px;
+}
+.left{
+    background-color: white;
+    color: #01b0ab;
+    padding: 12px;
+    box-sizing: border-box;
+    height: 50px;
+    width: 50px;
+    font-size: 25px;
+    border-radius: 50%;
+    margin-right: 30px;
+    text-align: center;
+}
+.uname{
+    padding:3px 0 0 30PX;
+    height: 50px;
+    width:400px;
+    box-sizing: border-box;
+    border-radius: 30px;
+    border: none;
+    font-size: 17px;
+}
+.sbtn{
+    background-color: white;
+    color: #01b0ab;
+    width: 400px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 30px;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 3px 20px 0 0px;
+    box-sizing: border-box;
+    
+    border: none;
+}
+.fgt a{
+    text-decoration: none;
+    color: #018881;
+}
+.fgt{
+    margin-top: 20px;
+    font-size: 18px;
+  
+}
